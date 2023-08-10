@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "D:/build-Transcriptor-Desktop_Qt_5_15_2_MSVC2019_32bit-Release/asr-post-editor_autogen",
+	"CMAKE_BINARY_DIR" : "D:/build-Transcriptor-Desktop_Qt_5_15_2_MSVC2019_32bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/build-Transcriptor-Desktop_Qt_5_15_2_MSVC2019_32bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Transcriptor",
+	"CMAKE_SOURCE_DIR" : "D:/Transcriptor",
+	"INCLUDE_DIR" : "D:/build-Transcriptor-Desktop_Qt_5_15_2_MSVC2019_32bit-Release/asr-post-editor_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Transcriptor/editor/wordlists/hindi.txt",
+		"D:/Transcriptor/editor/wordlists/sanskrit.txt",
+		"D:/Transcriptor/editor/wordlists/english.txt",
+		"D:/Transcriptor/editor/wordlists/gujarati.txt"
+	],
+	"LOCK_FILE" : "D:/build-Transcriptor-Desktop_Qt_5_15_2_MSVC2019_32bit-Release/CMakeFiles/asr-post-editor_autogen.dir/AutoRcc_wordlists_3HAKN7MTYQ_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "wordlists" ],
+	"OUTPUT_CHECKSUM" : "3HAKN7MTYQ",
+	"OUTPUT_NAME" : "qrc_wordlists.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/5.15.2/msvc2019/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/build-Transcriptor-Desktop_Qt_5_15_2_MSVC2019_32bit-Release/CMakeFiles/asr-post-editor_autogen.dir/AutoRcc_wordlists_3HAKN7MTYQ_Used.txt",
+	"SOURCE" : "D:/Transcriptor/editor/wordlists.qrc",
+	"VERBOSITY" : 0
+}

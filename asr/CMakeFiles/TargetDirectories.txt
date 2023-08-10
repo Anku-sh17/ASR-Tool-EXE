@@ -1,0 +1,5 @@
+D:/build-Transcriptor-Desktop_Qt_5_15_2_MSVC2019_32bit-Release/CMakeFiles/asr-post-editor.dir
+D:/build-Transcriptor-Desktop_Qt_5_15_2_MSVC2019_32bit-Release/CMakeFiles/edit_cache.dir
+D:/build-Transcriptor-Desktop_Qt_5_15_2_MSVC2019_32bit-Release/CMakeFiles/rebuild_cache.dir
+D:/build-Transcriptor-Desktop_Qt_5_15_2_MSVC2019_32bit-Release/CMakeFiles/asr-post-editor_autogen_timestamp_deps.dir
+D:/build-Transcriptor-Desktop_Qt_5_15_2_MSVC2019_32bit-Release/CMakeFiles/asr-post-editor_autogen.dir
